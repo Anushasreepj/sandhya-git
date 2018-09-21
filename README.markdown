@@ -1,4 +1,4 @@
-hai sandhya reddy
+sandhya reddy
 ## Important
 >>>>>>> e7b5a7852808ca9f7dca3c2cb5276f747ae1594f
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
